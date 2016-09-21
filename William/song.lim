@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+         <sonido nivel="80">what_I_am_William_english_subtitles.mp3</sonido>
+        <correcto son="" modo="1" >Very good!</correcto>
+        <incorrecto son="" modo="1" >Sorry, try it again!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>29</tipo>
+              <cabeceira>Song: Will I am.                     Fill in the gaps.</cabeceira>
+              <texto><![CDATA[If what I am is what's in me
+ Then I'll stay *strong - that's who I'll be
+ and I will always be the *best "me" that I can be.
+There's only one me, I am it have a dream I'll follow it
+ It's up to me to *try.
+
+Oh! I'm gonna keep my head up *high (high)
+Keep on reaching high high. Never gonna *quit
+I'll be getting *stronger.
+And nothing's gonna bring me *down (no!) 
+Never gonna *stop, gotta go.
+Because I know. I'll keep getting *stronger.
+ ]]></texto>
+              <cfondo>000000</cfondo>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>14</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>29</tipo>
+              <texto><![CDATA[
+And what I am is thoughtful
+ what I am is *musical
+ what I am is *smart
+ and what I am is *brave
+ what I am is *helpful
+ what I am is *special
+ There's nothing I can't *achieve.
+ Because in myself I believe in (oh)...
+]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>29</tipo>
+              <texto><![CDATA[ Gonna keep our heads up *high (high)
+ Keep on reaching high
+ Never gonna *quit
+ Just keep getting *stronger.
+
+And nothing's gonna bring us *down (no!)
+ Never give it up, gotta *go.
+ Because I know
+ I'll keep getting *stronger.
+]]></texto>
+              <cfondo>FFFFFF</cfondo>
+              <ctexto>0000A0</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>29</tipo>
+              <texto><![CDATA[What I am is *super
+ what I am is *proud
+ what I am is *friendly
+ what I am is *grouchy
+ what you are is *magical
+ what you are is *special
+
+There's nothing I can't *achieve.
+ Because in myself I *believe in oh...
+]]></texto>
+              <cfondo>000000</cfondo>
+              <ctexto>FFFFFF</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>29</tipo>
+              <texto><![CDATA[ Gonna hold my head up *high (high)
+ Keep on reaching high
+ *Never gonna stop
+ I'll be getting *stronger.
+
+Nothing's gonna *bring me down (no!)
+ Never give it up gotta go, oh... yeah...
+ I'll *keep getting strong--er.
+]]></texto>
+              <ctexto>0000A0</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <cabeceira>Word Search</cabeceira>
+              <modo>2</modo>
+              <sopa enun="grouchy.jpeg">grouchy</sopa>
+              <sopa enun="super.jpeg">super</sopa>
+              <sopa enun="magical.jpeg">magical</sopa>
+              <sopa enun="musical.jpeg">musical</sopa>
+              <sopa enun="helpful.jpeg">helpful</sopa>
+              <sopa enun="friendly.jpeg">friendly</sopa>
+              <sopa enun="proud.jpeg">proud</sopa>
+              <sopa enun="smart.jpeg">smart</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>
