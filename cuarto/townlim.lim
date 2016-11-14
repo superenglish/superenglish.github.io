@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.0">
+    <config>
+        <idioma>0</idioma>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-170" posy="-16" trans="15">town1.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="327" posy="76">town.jpg</imaxe>
+              <texto posx="27" posy="128" ancho="271" largo="65"><![CDATA[
+<p align="left">
+<font color="#000000" face="Verdana" size="28"><b>My town</font></b></p>
+]]></texto>
+              <ctexto>FF00FF</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="baker&apos;s">bakery.png</cousa>
+              <cousa nome="bank">bank.jpg</cousa>
+              <cousa nome="book shop">book_store.jpg</cousa>
+              <cousa nome="bus station">bus_station.jpg</cousa>
+              <cousa nome="bus stop">bus_stop.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="baker&apos;s">bakery.png</cousa>
+              <cousa nome="bank">bank.jpg</cousa>
+              <cousa nome="book shop">book_store.jpg</cousa>
+              <cousa nome="bus station">bus_station.jpg</cousa>
+              <cousa nome="bus stop">bus_stop.jpg</cousa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="180" posy="44">bank.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The bank</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="5" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="184" posy="71">bus_stop.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The bus stop</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="6" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>bakery.png</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">baker&apos;s</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>book_store.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">book shop</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="butcher&apos;s">butchers.jpg</cousa>
+              <cousa nome="cinema">cinema.jpg</cousa>
+              <cousa nome="clothes shop">clothes_shop.jpg</cousa>
+              <cousa nome="coffee shop">coffeeshop.jpg</cousa>
+              <cousa nome="dentist">dentist.png</cousa>
+        </paxina>
+        <paxina id="9" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="butcher&apos;s">butchers.jpg</cousa>
+              <cousa nome="cinema">cinema.jpg</cousa>
+              <cousa nome="clothes shop">clothes_shop.jpg</cousa>
+              <cousa nome="coffee shop">coffeeshop.jpg</cousa>
+              <cousa nome="dentist">dentist.png</cousa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="187" posy="133">butchers.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The butcher&apos;s</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="182" posy="76">coffeeshop.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The coffee shop</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>clothes_shop.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">clothes shop</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>cinema.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">cinema</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="bakery.png">bakers</sopa>
+              <sopa enun="book_store.jpg">bookshop</sopa>
+              <sopa enun="butchers.jpg">butchers</sopa>
+              <sopa enun="dentist.png">dentist</sopa>
+              <sopa enun="bank.jpg">bank</sopa>
+              <sopa enun="bus_station.jpg">busstation</sopa>
+              <sopa enun="clothes_shop.jpg">clothesshop</sopa>
+              <sopa enun="coffeeshop.jpg">coffeeshop</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="15" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="doctor&apos;s office">doctorsoffice.jpg</cousa>
+              <cousa nome=" drug store">drugstore.jpg</cousa>
+              <cousa nome="flower shop">flowershop.jpg</cousa>
+              <cousa nome="fountain">fountain.jpg</cousa>
+              <cousa nome="gas station">gasstation.jpg</cousa>
+        </paxina>
+        <paxina id="16" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="doctor&apos;s office">doctorsoffice.jpg</cousa>
+              <cousa nome=" drug store">drugstore.jpg</cousa>
+              <cousa nome="flower shop">flowershop.jpg</cousa>
+              <cousa nome="fountain">fountain.jpg</cousa>
+              <cousa nome="gas station">gasstation.jpg</cousa>
+        </paxina>
+        <paxina id="17" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="188" posy="81">fountain.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The fountain</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="18" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="197" posy="78">gasstation.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The gas station</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>flowershop.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">flower shop</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>drugstore.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">drug store</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="greengrocer&apos;s">greengrocer.jpg</cousa>
+              <cousa nome="hairdresser&apos;s">hairdresser.jpg</cousa>
+              <cousa nome="hospital">hospital.png</cousa>
+              <cousa nome="hotel">hotel.jpg</cousa>
+              <cousa nome="library">library.jpg</cousa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="greengrocer&apos;s">greengrocer.jpg</cousa>
+              <cousa nome="hairdresser&apos;s">hairdresser.jpg</cousa>
+              <cousa nome="hospital">hospital.png</cousa>
+              <cousa nome="hotel">hotel.jpg</cousa>
+              <cousa nome="library">library.jpg</cousa>
+        </paxina>
+        <paxina id="23" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="179" posy="78">greengrocer.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The greengrocer&apos;s</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="24" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="240" posy="49">hospital.png</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The hospital</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="25" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="drugstore.jpg">drugstore</sopa>
+              <sopa enun="gasstation.jpg">gasstation</sopa>
+              <sopa enun="hospital.png">hospital</sopa>
+              <sopa enun="hotel.jpg">hotel</sopa>
+              <sopa enun="fountain.jpg">fountain</sopa>
+              <sopa enun="greengrocer.jpg">greengrocer</sopa>
+              <sopa enun="library.jpg">library</sopa>
+              <sopa enun="flowershop.jpg">flowershop</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="26" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="museum">museum.jpg</cousa>
+              <cousa nome="newsagent&apos;s">newsagent.jpg</cousa>
+              <cousa nome="park">park.jpg</cousa>
+              <cousa nome="pet shop">petshop.jpg</cousa>
+              <cousa nome="pool">pool.jpg</cousa>
+        </paxina>
+        <paxina id="27" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="museum">museum.jpg</cousa>
+              <cousa nome="newsagent&apos;s">newsagent.jpg</cousa>
+              <cousa nome="park">park.jpg</cousa>
+              <cousa nome="pet shop">petshop.jpg</cousa>
+              <cousa nome="pool">pool.jpg</cousa>
+        </paxina>
+        <paxina id="28" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="192" posy="90">museum.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The museum</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="29" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="188" posy="73">petshop.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The pet shop</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="30" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>pool.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">pool</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="31" >
+              <tipo>19</tipo>
+              <cabeceira>Guess the word</cabeceira>
+              <imaxe>newsagent.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">newsagent&apos;s</resp>
+              <modo>1</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="32" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="post office">post_office.jpg</cousa>
+              <cousa nome="restaurant">restaurant.jpg</cousa>
+              <cousa nome="statue">statue.png</cousa>
+              <cousa nome="supermarket">supermarket.jpg</cousa>
+              <cousa nome="sweet shop">sweet_shop.jpg</cousa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="post office">post_office.jpg</cousa>
+              <cousa nome="restaurant">restaurant.jpg</cousa>
+              <cousa nome="statue">statue.png</cousa>
+              <cousa nome="supermarket">supermarket.jpg</cousa>
+              <cousa nome="sweet shop">sweet_shop.jpg</cousa>
+        </paxina>
+        <paxina id="34" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="193" posy="92">post_office.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The post office</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="35" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="155" posy="71">supermarket.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The supermarket</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="36" >
+              <tipo>4</tipo>
+              <cabeceira>Find the words</cabeceira>
+              <modo>2</modo>
+              <sopa enun="museum.jpg">museum</sopa>
+              <sopa enun="post_office.jpg">postoffice</sopa>
+              <sopa enun="newsagent.jpg">newsagents</sopa>
+              <sopa enun="statue.png">statue</sopa>
+              <sopa enun="supermarket.jpg">supermarket</sopa>
+              <sopa enun="restaurant.jpg">restaurant</sopa>
+              <sopa enun="park.jpg">park</sopa>
+              <sopa enun="sweet_shop.jpg">sweetshop</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="37" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="town hall">townhall.jpg</cousa>
+              <cousa nome="toyshop">toyshop.jpg</cousa>
+              <cousa nome="train station">train_station.jpg</cousa>
+              <cousa nome="zoo">zoo.jpg</cousa>
+              <cousa nome="school">school.jpg</cousa>
+        </paxina>
+        <paxina id="38" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="town hall">townhall.jpg</cousa>
+              <cousa nome="toyshop">toyshop.jpg</cousa>
+              <cousa nome="train station">train_station.jpg</cousa>
+              <cousa nome="zoo">zoo.jpg</cousa>
+              <cousa nome="school">school.jpg</cousa>
+        </paxina>
+        <paxina id="39" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="153" posy="71">townhall.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The town hall</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="40" >
+              <tipo>5</tipo>
+              <cabeceira>What&apos;s hiding?</cabeceira>
+              <imaxe>questionmark.png</imaxe>
+              <imfondo  posx="92" posy="42">train_station.jpg</imfondo>
+              <ctapa>F0F0F0</ctapa>
+              <resp>The train station</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="41" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="turn left">turnleft.png</cousa>
+              <cousa nome="turn right">turnright.png</cousa>
+              <cousa nome="on">on.jpg</cousa>
+              <cousa nome="next to">nextto.jpg</cousa>
+              <cousa nome="in">in.png</cousa>
+        </paxina>
+        <paxina id="42" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="turn left">turnleft.png</cousa>
+              <cousa nome="turn right">turnright.png</cousa>
+              <cousa nome="on">on.jpg</cousa>
+              <cousa nome="next to">nextto.jpg</cousa>
+              <cousa nome="in">in.png</cousa>
+        </paxina>
+        <paxina id="43" >
+              <tipo>11</tipo>
+              <cabeceira>Match the words to the pictures</cabeceira>
+              <modo>3</modo>
+              <cousa nome="go straight on">gostraighton.jpg</cousa>
+              <cousa nome="behind">behing.png</cousa>
+              <cousa nome="near">near.jpg</cousa>
+              <cousa nome="opposite">opposite.png</cousa>
+              <cousa nome="between">between.jpg</cousa>
+        </paxina>
+        <paxina id="44" >
+              <tipo>11</tipo>
+              <cabeceira>Write the words</cabeceira>
+              <modo>1</modo>
+              <cousa nome="go straight on">gostraighton.jpg</cousa>
+              <cousa nome="behind">behing.png</cousa>
+              <cousa nome="near">near.jpg</cousa>
+              <cousa nome="opposite">opposite.png</cousa>
+              <cousa nome="between">between.jpg</cousa>
+        </paxina>
+        <paxina id="45" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>whereiswaldo.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="114" posy="132">There is a red car</etiqueta>
+              <etiqueta posx="115" posy="152">behind a yellow car</etiqueta>
+              <etiqueta posx="129" posy="205">There is a statue</etiqueta>
+              <etiqueta posx="131" posy="224">in the square</etiqueta>
+              <etiqueta posx="262" posy="59">There are three people</etiqueta>
+              <etiqueta posx="261" posy="79">on the roof</etiqueta>
+        </paxina>
+        <paxina id="46" >
+              <tipo>20</tipo>
+              <cabeceira>Choose</cabeceira>
+              <imaxe>whereiswaldo.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="58" posy="224">a man on a fountain</etiqueta>
+              <etiqueta posx="264" posy="211">There is a town hall</etiqueta>
+              <etiqueta posx="266" posy="230">in front of a market</etiqueta>
+              <etiqueta posx="236" posy="137">There is a coffee shop</etiqueta>
+              <etiqueta posx="236" posy="158">next to the town hall</etiqueta>
+              <etiqueta posx="154" posy="268">a motorbike on the road</etiqueta>
+        </paxina>
+        <paxina id="47" >
+              <tipo>29</tipo>
+              <cabeceira>Fill in the gaps</cabeceira>
+              <texto><![CDATA[I am going to the pet shop to buy some *cats.
+I am going to the sweet shop to buy some *candies
+I am going to the baker's to buy some *bread.
+I am going to the *butcher's to buy meat.
+I am going to the *greengrocer's to buy some vegetables.
+I am going to the *newsagent's to buy some magazines.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>2</modo>
+              <forma>16</forma>
+        </paxina>
+        <paxina id="48" >
+              <tipo>29</tipo>
+              <cabeceira>Write the missing words</cabeceira>
+              <texto><![CDATA[I am going to the *post *office to send a letter.
+I am going to the *cinema to watch a film.
+I am going to the *pool to swim.
+I am going to the *clothes *shop to buy a dress.
+I am going to the *flower *shop to buy some plants.
+I am going to the *library to read a book.]]></texto>
+              <ctexto>000000</ctexto>
+              <modo>1</modo>
+              <forma>16</forma>
+        </paxina>
+    </libro>
+</lim>
